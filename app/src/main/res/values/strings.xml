@@ -1,0 +1,9 @@
+<resources>
+    <string name="nome">Celline Bitencourt de Souza</string>
+    <string name="RA">1110482313019</string>
+    <string name="menor">Base Menor</string>
+    <string name="maior">Base Maior</string>
+    <string name="altura">Altura</string>
+    <string name="area">Área do trapézio = </string>
+    <string name="app_name">android-area-trapezio</string>
+</resources>
